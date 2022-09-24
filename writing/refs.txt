@@ -1,0 +1,254 @@
+1
+@misc{zaib2021conversational,
+      title={Conversational Question Answering: A Survey}, 
+      author={Munazza Zaib and Wei Emma Zhang and Quan Z. Sheng and Adnan Mahmood and Yang Zhang},
+      year={2021},
+      eprint={2106.00874},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+2
+@article{DBLP:journals/corr/abs-2006-11880,
+  author    = {Chengchang Zeng and
+               Shaobo Li and
+               Qin Li and
+               Jie Hu and
+               Jianjun Hu},
+  title     = {A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics,
+               and Benchmark Datasets},
+  journal   = {CoRR},
+  volume    = {abs/2006.11880},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2006.11880},
+  eprinttype = {arXiv},
+  eprint    = {2006.11880},
+  timestamp = {Wed, 24 Jun 2020 09:12:22 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2006-11880.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+3
+@misc{rajpurkar2016squad,
+      title={SQuAD: 100,000+ Questions for Machine Comprehension of Text}, 
+      author={Pranav Rajpurkar and Jian Zhang and Konstantin Lopyrev and Percy Liang},
+      year={2016},
+      eprint={1606.05250},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+4
+@misc{rajpurkar2018know,
+      title={Know What You Don't Know: Unanswerable Questions for SQuAD}, 
+      author={Pranav Rajpurkar and Robin Jia and Percy Liang},
+      year={2018},
+      eprint={1806.03822},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+5
+@misc{zaib2021bertcoqac,
+      title={BERT-CoQAC: BERT-based Conversational Question Answering in Context}, 
+      author={Munazza Zaib and Dai Hoang Tran and Subhash Sagar and Adnan Mahmood and Wei E. Zhang and Quan Z. Sheng},
+      year={2021},
+      eprint={2104.11394},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+6
+@misc{reddy2019coqa,
+      title={CoQA: A Conversational Question Answering Challenge}, 
+      author={Siva Reddy and Danqi Chen and Christopher D. Manning},
+      year={2019},
+      eprint={1808.07042},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+7
+@misc{choi2018quac,
+      title={QuAC : Question Answering in Context}, 
+      author={Eunsol Choi and He He and Mohit Iyyer and Mark Yatskar and Wen-tau Yih and Yejin Choi and Percy Liang and Luke Zettlemoyer},
+      year={2018},
+      eprint={1808.07036},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+8
+@article{2021,
+   title={Evolution of Semantic Similarity—A Survey},
+   volume={54},
+   ISSN={1557-7341},
+   url={http://dx.doi.org/10.1145/3440755},
+   DOI={10.1145/3440755},
+   number={2},
+   journal={ACM Computing Surveys},
+   publisher={Association for Computing Machinery (ACM)},
+   author={Chandrasekaran, Dhivya and Mago, Vijay},
+   year={2021},
+   month={Apr},
+   pages={1–37}
+}
+
+9
+@article{2019,
+   title={Measuring Sentences Similarity: A Survey},
+   volume={12},
+   ISSN={0974-6846},
+   url={http://dx.doi.org/10.17485/ijst/2019/v12i25/143977},
+   DOI={10.17485/ijst/2019/v12i25/143977},
+   number={25},
+   journal={Indian Journal of Science and Technology},
+   publisher={Indian Society for Education and Environment},
+   author={Farouk, Mamdouh},
+   year={2019},
+   month={Jul},
+   pages={1–11}
+}
+
+10
+@misc{devlin2019bert,
+      title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding}, 
+      author={Jacob Devlin and Ming-Wei Chang and Kenton Lee and Kristina Toutanova},
+      year={2019},
+      eprint={1810.04805},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+11
+@misc{sukthanker2018anaphora,
+      title={Anaphora and Coreference Resolution: A Review}, 
+      author={Rhea Sukthanker and Soujanya Poria and Erik Cambria and Ramkumar Thirunavukarasu},
+      year={2018},
+      eprint={1805.11824},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+12
+@misc{zhang2020brief,
+      title={A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution}, 
+      author={Hongming Zhang and Xinran Zhao and Yangqiu Song},
+      year={2020},
+      eprint={2009.12721},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+
+
+13
+@article{2020,
+   title={Conversational Machine Comprehension: a Literature Review},
+   url={http://dx.doi.org/10.18653/v1/2020.coling-main.247},
+   DOI={10.18653/v1/2020.coling-main.247},
+   journal={Proceedings of the 28th International Conference on Computational Linguistics},
+   publisher={International Committee on Computational Linguistics},
+   author={Gupta, Somil and Rawat, Bhanu Pratap Singh and Yu, Hong},
+   year={2020}
+}
+
+14
+@misc{ohsugi2019simple,
+      title={A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension}, 
+      author={Yasuhito Ohsugi and Itsumi Saito and Kyosuke Nishida and Hisako Asano and Junji Tomita},
+      year={2019},
+      eprint={1905.12848},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+15
+@article{2019,
+   title={BERT with History Answer Embedding for Conversational Question Answering},
+   url={http://dx.doi.org/10.1145/3331184.3331341},
+   DOI={10.1145/3331184.3331341},
+   journal={Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+   publisher={ACM},
+   author={Qu, Chen and Yang, Liu and Qiu, Minghui and Croft, W. Bruce and Zhang, Yongfeng and Iyyer, Mohit},
+   year={2019},
+   month={Jul}
+}
+
+16
+@article{2019,
+   title={Attentive History Selection for Conversational Question Answering},
+   url={http://dx.doi.org/10.1145/3357384.3357905},
+   DOI={10.1145/3357384.3357905},
+   journal={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+   publisher={ACM},
+   author={Qu, Chen and Yang, Liu and Qiu, Minghui and Zhang, Yongfeng and Chen, Cen and Croft, W. Bruce and Iyyer, Mohit},
+   year={2019},
+   month={Nov}
+}
+
+17
+@article{
+    Qiu_Huang_Chen_Ji_Qu_Wei_Huang_Zhang_2021, 
+    title={Reinforced History Backtracking for Conversational Question Answering}, 
+    volume={35}, 
+    url={https://ojs.aaai.org/index.php/AAAI/article/view/17617}, 
+    abstractNote={To model the context history in multi-turn conversations has become a critical step towards a better understanding of the user query in question answering systems. To utilize the context history, most existing studies treat the whole context as input, which will inevitably face the following two challenges. First, modeling a long history can be costly as it requires more computation resources. Second, the long context history consists of a lot of irrelevant information that makes it difficult to model appropriate information relevant to the user query. To alleviate these problems, we propose a reinforcement learning based method to capture and backtrack the related conversation history to boost model performance in this paper. Our method seeks to automatically backtrack the history information with the implicit feedback from the model performance. We further consider both immediate and delayed rewards to guide the reinforced backtracking policy. Extensive experiments on a large conversationa        l question answering dataset show that the proposed method can help to alleviate the problems arising from longer context history. Meanwhile, experiments show that the method yields better performance than other strong baselines, and the actions made by the method are insightful.}, number={15}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Qiu, Minghui and Huang, Xinjing and Chen, Cen and Ji, Feng and Qu, Chen and Wei, Wei and Huang, Jun and Zhang, Yin}, year={2021}, month={May}, pages={13718-13726} 
+}
+
+18
+@misc{chen2020graphflow,
+      title={GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension}, 
+      author={Yu Chen and Lingfei Wu and Mohammed J. Zaki},
+      year={2020},
+      eprint={1908.00059},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+19
+@misc{huang2019flowqa,
+      title={FlowQA: Grasping Flow in History for Conversational Machine Comprehension}, 
+      author={Hsin-Yuan Huang and Eunsol Choi and Wen-tau Yih},
+      year={2019},
+      eprint={1810.06683},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+20
+@misc{vakulenko2020question,
+      title={Question Rewriting for Conversational Question Answering}, 
+      author={Svitlana Vakulenko and Shayne Longpre and Zhucheng Tu and Raviteja Anantha},
+      year={2020},
+      eprint={2004.14652},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+
+21
+@inproceedings{elgohary-etal-2019-unpack,
+    title = "Can You Unpack That? Learning to Rewrite Questions-in-Context",
+    author = "Elgohary, Ahmed  and
+      Peskov, Denis  and
+      Boyd-Graber, Jordan",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D19-1605",
+    doi = "10.18653/v1/D19-1605",
+    pages = "5918--5924",
+    abstract = "Question answering is an AI-complete problem, but existing datasets lack key elements of language understanding such as coreference and ellipsis resolution. We consider sequential question answering: multiple questions are asked one-by-one in a conversation between a questioner and an answerer. Answering these questions is only possible through understanding the conversation history. We introduce the task of question-in-context rewriting: given the context of a conversation{'}s history, rewrite a context-dependent into a self-contained question with the same answer. We construct, CANARD, a dataset of 40,527 questions based on QuAC (Choi et al., 2018) and train Seq2Seq models for incorporating context into standalone questions.",
+}
+
+22
+@misc{kim2021learn,
+      title={Learn to Resolve Conversational Dependency: A Consistency Training Framework for Conversational Question Answering}, 
+      author={Gangwoo Kim and Hyunjae Kim and Jungsoo Park and Jaewoo Kang},
+      year={2021},
+      eprint={2106.11575},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
